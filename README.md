@@ -236,6 +236,8 @@ This section demonstrates advanced SQL analytical techniques.
 # Key Business Findings
 
 ## 1. Product Performance
+<img width="620" height="535" alt="image" src="https://github.com/user-attachments/assets/97bf748f-e9ab-402a-aa43-3d71376e7a00" />
+
 
 **iPhone 13 (128GB)** was the highest-revenue product, generating:
 
@@ -248,6 +250,8 @@ This suggests that high-performing products should receive close attention in in
 ---
 
 ## 2. Customer Value
+<img width="854" height="627" alt="image" src="https://github.com/user-attachments/assets/1111e270-0d7e-497f-a52b-ef798934a910" />
+
 
 **Chukwuemeka Ojo** was the highest-value customer, spending:
 
@@ -260,6 +264,7 @@ Customers whose spending exceeds the overall or segment average represent potent
 ---
 
 ## 3. Regional Performance
+<img width="538" height="602" alt="image" src="https://github.com/user-attachments/assets/2007f55c-7230-492a-a8cc-fe04e4a67d3c" />
 
 **FCT Abuja** generated the highest completed-order revenue at:
 
@@ -274,6 +279,8 @@ The concentration of revenue in stronger-performing regions may represent an opp
 ---
 
 ## 4. Sales Representative Performance
+<img width="738" height="449" alt="image" src="https://github.com/user-attachments/assets/18ad2dcc-464a-4ccb-ae8d-253a63a3fc29" />
+
 
 **Adaeze Iheanacho** ranked first in completed sales with:
 
@@ -288,6 +295,10 @@ This performance gap may be influenced by territory allocation, customer portfol
 ---
 
 ## 5. Revenue Trends
+<img width="950" height="683" alt="image" src="https://github.com/user-attachments/assets/293b4957-8908-49e0-9aae-040320350c74" />
+
+<img width="808" height="619" alt="image" src="https://github.com/user-attachments/assets/5a1c1c89-f7ad-4af3-9c50-3d1b34b6f213" />
+
 
 Completed-order revenue experienced substantial fluctuations across the 2023–2024 period.
 
@@ -309,6 +320,9 @@ These fluctuations may be associated with seasonal demand, promotions, stock ava
 
 ## 6. Payment Performance
 
+<img width="808" height="289" alt="image" src="https://github.com/user-attachments/assets/7dae98e7-214f-4d11-8ae2-7818f6fcffc8" />
+
+
 **Card payments** generated the highest successful payment value:
 
 **₦62,535,855**
@@ -318,6 +332,8 @@ This provides an indication of the payment method contributing the greatest valu
 ---
 
 ## 7. Unsold Products
+
+<img width="457" height="155" alt="image" src="https://github.com/user-attachments/assets/b322d990-7ed6-4d8d-9443-e62d757b0b9b" />
 
 The analysis identified **8 products** that had never appeared in the `order_items` table.
 
