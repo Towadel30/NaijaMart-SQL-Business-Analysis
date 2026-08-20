@@ -297,6 +297,8 @@ This performance gap may be influenced by territory allocation, customer portfol
 ## 5. Revenue Trends
 <img width="950" height="683" alt="image" src="https://github.com/user-attachments/assets/293b4957-8908-49e0-9aae-040320350c74" />
 
+
+
 <img width="808" height="619" alt="image" src="https://github.com/user-attachments/assets/5a1c1c89-f7ad-4af3-9c50-3d1b34b6f213" />
 
 
